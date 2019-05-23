@@ -15,10 +15,10 @@ class Song
   end
   
   def genre
-    @genres 
+    @genre 
   end
   
   def  artist
-   @artists
+   @artist
   end
 end
